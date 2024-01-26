@@ -1,5 +1,6 @@
 <h1 align="left">Olá 👋, eu sou Wellington Lopes</h1>
-<h3 align="left">um programador apaixonado por códigos.</h3>
+<h5 align="left">
+um entusiasta da tecnologia e desenvolvedor(a) apaixonado(a) por criar soluções inovadoras. Com 7 anos de experiência em desenvolvimento de software.</h5>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
