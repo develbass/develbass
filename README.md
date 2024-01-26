@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋, eu sou Wellington Lopes</h1>
 <h4 align="left">
-um entusiasta da tecnologia e desenvolvedor apaixonado por criar soluções inovadoras. Com 7 anos de experiência em web e mobile.</h4>
+um entusiasta da tecnologia e desenvolvedor apaixonado por criar soluções inovadoras. Com 7 anos de experiência em programação web e mobile.</h4>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
