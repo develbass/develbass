@@ -1,10 +1,11 @@
 <h1 align="left">Olá 👋, eu sou Wellington Lopes</h1>
-<h5 align="left">
-um entusiasta da tecnologia e desenvolvedor(a) apaixonado(a) por criar soluções inovadoras. Com 7 anos de experiência em desenvolvimento de software.</h5>
+<h4 align="left">
+um entusiasta da tecnologia e desenvolvedor apaixonado por criar soluções inovadoras. Com 7 anos de experiência em web e mobile.</h4>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/toncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toncode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/toncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toncode" height="30" width="40" /></a>
+  <a href="https://instagram.com/toncode_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toncode_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
